@@ -1,4 +1,4 @@
-// import global package known as http 
+// import global package known as http here
 const http =require('http')
 const app =require("./src/config/express.config")
 //mounting express to node server
